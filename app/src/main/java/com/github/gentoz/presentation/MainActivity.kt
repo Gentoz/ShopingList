@@ -1,10 +1,7 @@
-package com.github.gentoz
+package com.github.gentoz.presentation
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.github.gentoz.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
